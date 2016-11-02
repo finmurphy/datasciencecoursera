@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repe for Data Science course work
+Repo for Data Science course work
